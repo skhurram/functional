@@ -30,7 +30,7 @@
         [:a {:href "#", :class "brand-logo"} "Functional Company Registration"]
         [:ul {:id "nav-mobile", :class "right hide-on-med-and-down"}
          [:li
-          [:a {:href "https://gitlab.com/skhurram/functional"} "GitLab"]]]]])))
+          [:a {:href "https://github.com/skhurram/functional"} "GitHub"]]]]])))
 
 
 (defn load-company [data company-id]
